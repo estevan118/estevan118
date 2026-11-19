@@ -69,7 +69,7 @@
 | [FrontTiendaSucursal](https://github.com/estevan118/FrontTiendaSucursal) | Frontend de un sistema de gestión para tiendas con sucursales | Angular · TypeScript |
 | [-backTiendaSucursal](https://github.com/estevan118/-backTiendaSucursal) | API REST del sistema de tiendas, documentada con Swagger | Java · Spring Boot · MongoDB |
 | [Proyecto_Health_Home](https://github.com/estevan118/Proyecto_Health_Home) | Análisis y diseño del sistema de información de una clínica (BPMN, casos de uso, Scrum, modelo de datos) | Documentación · BD |
-| [Clinica_Health_Home_Codigo_1](https://github.com/estevan118/Clinica_Health_Home_Codigo_1) | Implementación del sistema de la Clínica Health Home (SENA) | — |
+| [Clinica_Health_Home_Codigo_1](https://github.com/estevan118/Clinica_Health_Home_Codigo_1) | Repositorio inicial del sistema de la Clínica Health Home (SENA) | Proyecto formativo |
 
 > 🔒 La mayor parte de mi trabajo actual está en repositorios privados de la empresa.
 
